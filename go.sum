@@ -12,6 +12,8 @@ github.com/rudransh61/Physix-go v0.1.2 h1:x2HEzMLXj8+i4Zvp/k+mAhLxzK5Oc/vdKY4TSS
 github.com/rudransh61/Physix-go v0.1.2/go.mod h1:tDEptqRQFuhCXLn3KdVVZHHbVZ0RKP0AKGNEBETI0Q0=
 github.com/rudransh61/Physix-go v0.1.4 h1:gv71Mw1vN7HN6CIVTDGogrBJf8VrWwS/DMRRZdaJK/Y=
 github.com/rudransh61/Physix-go v0.1.4/go.mod h1:tDEptqRQFuhCXLn3KdVVZHHbVZ0RKP0AKGNEBETI0Q0=
+github.com/rudransh61/Physix-go v1.0.1 h1:kc71EOLuli2PvwzdJM4pldVmbxauSBqfyA+U9Gd4Pp0=
+github.com/rudransh61/Physix-go v1.0.1/go.mod h1:tDEptqRQFuhCXLn3KdVVZHHbVZ0RKP0AKGNEBETI0Q0=
 golang.org/x/sync v0.7.0 h1:YsImfSBoP9QPYL0xyKJPq0gcaJdG3rInoqxTWbfQu9M=
 golang.org/x/sync v0.7.0/go.mod h1:Czt+wKu1gCyEFDUtn0jG5QVvpJ6rzVqr5aXyt9drQfk=
 golang.org/x/sys v0.20.0 h1:Od9JTbYCk261bKm4M/mw7AklTlFYIa0bIp9BgSm1S8Y=
